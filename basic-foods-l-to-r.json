@@ -1,6 +1,6 @@
 [
   {
-    "name": "Lamb",
+    "name": "Lamb (cooked)",
     "calories": 2940,
     "caloriesUnit": "kcal",
     "protein": 250,
@@ -162,7 +162,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Lentils",
+    "name": "Lentils (cooked)",
     "calories": 1160,
     "caloriesUnit": "kcal",
     "protein": 90,
@@ -243,7 +243,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Lettuce (romaine)",
+    "name": "Lettuce (romaine, raw)",
     "calories": 170,
     "caloriesUnit": "kcal",
     "protein": 12,
@@ -324,7 +324,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Lima Beans",
+    "name": "Lima Beans (cooked)",
     "calories": 1150,
     "caloriesUnit": "kcal",
     "protein": 79,
@@ -405,7 +405,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Limes",
+    "name": "Limes (raw)",
     "calories": 300,
     "caloriesUnit": "kcal",
     "protein": 7,
@@ -486,7 +486,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Lobster",
+    "name": "Lobster (cooked)",
     "calories": 900,
     "caloriesUnit": "kcal",
     "protein": 189,
@@ -648,7 +648,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Mango",
+    "name": "Mango (raw)",
     "calories": 600,
     "caloriesUnit": "kcal",
     "protein": 8.2,
@@ -972,7 +972,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Millet",
+    "name": "Millet (cooked)",
     "calories": 3780,
     "caloriesUnit": "kcal",
     "protein": 110,
@@ -1215,7 +1215,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Navy Beans",
+    "name": "Navy Beans (cooked)",
     "calories": 1400,
     "caloriesUnit": "kcal",
     "protein": 82,
@@ -1296,7 +1296,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Nectarine",
+    "name": "Nectarine (raw)",
     "calories": 440,
     "caloriesUnit": "kcal",
     "protein": 11,
@@ -1377,7 +1377,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Oats (steel-cut)",
+    "name": "Oats (steel-cut, raw)",
     "calories": 3790,
     "caloriesUnit": "kcal",
     "protein": 134,
@@ -1701,7 +1701,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Orange",
+    "name": "Orange (raw)",
     "calories": 470,
     "caloriesUnit": "kcal",
     "protein": 9.4,
@@ -1944,7 +1944,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Papaya",
+    "name": "Papaya (raw)",
     "calories": 430,
     "caloriesUnit": "kcal",
     "protein": 4.7,
@@ -2025,7 +2025,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Pasta (whole wheat)",
+    "name": "Pasta (whole wheat, cooked)",
     "calories": 3480,
     "caloriesUnit": "kcal",
     "protein": 130,
@@ -2106,7 +2106,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Pasta (gluten-free)",
+    "name": "Pasta (gluten-free, cooked)",
     "calories": 3570,
     "caloriesUnit": "kcal",
     "protein": 78,
@@ -2187,7 +2187,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Peach",
+    "name": "Peach (raw)",
     "calories": 390,
     "caloriesUnit": "kcal",
     "protein": 9.1,
@@ -2349,7 +2349,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Pear",
+    "name": "Pear (raw)",
     "calories": 570,
     "caloriesUnit": "kcal",
     "protein": 3.6,
@@ -2430,7 +2430,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Peas",
+    "name": "Peas (cooked)",
     "calories": 810,
     "caloriesUnit": "kcal",
     "protein": 54,
@@ -2754,7 +2754,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Pineapple",
+    "name": "Pineapple (raw)",
     "calories": 500,
     "caloriesUnit": "kcal",
     "protein": 5.4,
@@ -2835,7 +2835,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Pinto Beans",
+    "name": "Pinto Beans (cooked)",
     "calories": 1470,
     "caloriesUnit": "kcal",
     "protein": 90,
@@ -2916,7 +2916,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Plantain",
+    "name": "Plantain (cooked)",
     "calories": 1220,
     "caloriesUnit": "kcal",
     "protein": 12,
@@ -2997,7 +2997,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Pomegranate",
+    "name": "Pomegranate (raw)",
     "calories": 830,
     "caloriesUnit": "kcal",
     "protein": 17,
@@ -3078,7 +3078,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Pork",
+    "name": "Pork (cooked)",
     "calories": 2420,
     "caloriesUnit": "kcal",
     "protein": 271,
@@ -3159,7 +3159,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Potatoes",
+    "name": "Potatoes (cooked)",
     "calories": 770,
     "caloriesUnit": "kcal",
     "protein": 20,
@@ -3240,7 +3240,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Pumpkin",
+    "name": "Pumpkin (cooked)",
     "calories": 260,
     "caloriesUnit": "kcal",
     "protein": 10,
@@ -3402,7 +3402,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Quinoa",
+    "name": "Quinoa (cooked)",
     "calories": 3680,
     "caloriesUnit": "kcal",
     "protein": 143,
@@ -3807,7 +3807,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Raspberries",
+    "name": "Raspberries (raw)",
     "calories": 520,
     "caloriesUnit": "kcal",
     "protein": 12,
@@ -3969,7 +3969,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Red Lentils",
+    "name": "Red Lentils (cooked)",
     "calories": 3580,
     "caloriesUnit": "kcal",
     "protein": 238,
@@ -4050,7 +4050,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Rutabaga/Swede",
+    "name": "Rutabaga/Swede (cooked)",
     "calories": 370,
     "caloriesUnit": "kcal",
     "protein": 11,

@@ -243,7 +243,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Soybeans",
+    "name": "Soybeans (cooked)",
     "calories": 4460,
     "caloriesUnit": "kcal",
     "protein": 363,
@@ -486,7 +486,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Squash",
+    "name": "Squash (cooked)",
     "calories": 450,
     "caloriesUnit": "kcal",
     "protein": 10,
@@ -567,7 +567,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Strawberries",
+    "name": "Strawberries (raw)",
     "calories": 320,
     "caloriesUnit": "kcal",
     "protein": 7,
@@ -648,7 +648,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Sunflower Seeds",
+    "name": "Sunflower Seeds (raw)",
     "calories": 5840,
     "caloriesUnit": "kcal",
     "protein": 208,
@@ -810,7 +810,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Sweet Potato",
+    "name": "Sweet Potato (cooked)",
     "calories": 860,
     "caloriesUnit": "kcal",
     "protein": 16,
@@ -1539,7 +1539,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Turkey Breast",
+    "name": "Turkey Breast (cooked)",
     "calories": 1350,
     "caloriesUnit": "kcal",
     "protein": 300,
@@ -1620,7 +1620,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Turnip Greens",
+    "name": "Turnip Greens (cooked)",
     "calories": 320,
     "caloriesUnit": "kcal",
     "protein": 15,
@@ -1701,7 +1701,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Turnips",
+    "name": "Turnips (cooked)",
     "calories": 280,
     "caloriesUnit": "kcal",
     "protein": 9,
@@ -2025,7 +2025,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Watermelon",
+    "name": "Watermelon (raw)",
     "calories": 300,
     "caloriesUnit": "kcal",
     "protein": 6,
@@ -2106,7 +2106,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "White Rice",
+    "name": "White Rice (cooked)",
     "calories": 3650,
     "caloriesUnit": "kcal",
     "protein": 71,
@@ -2187,7 +2187,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Yam",
+    "name": "Yam (cooked)",
     "calories": 1180,
     "caloriesUnit": "kcal",
     "protein": 15,
@@ -2430,7 +2430,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Yuca",
+    "name": "Yuca (cooked)",
     "calories": 1600,
     "caloriesUnit": "kcal",
     "protein": 14,

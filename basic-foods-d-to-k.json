@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dates",
+    "name": "Dates (raw)",
     "calories": 2770,
     "caloriesUnit": "kcal",
     "protein": 18,
@@ -81,7 +81,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Dragon Fruit",
+    "name": "Dragon Fruit (raw)",
     "calories": 600,
     "caloriesUnit": "kcal",
     "protein": 12,
@@ -162,7 +162,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Duck Breast",
+    "name": "Duck Meat (cooked)",
     "calories": 1230,
     "caloriesUnit": "kcal",
     "protein": 234,
@@ -243,7 +243,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Edamame",
+    "name": "Edamame (cooked)",
     "calories": 1210,
     "caloriesUnit": "kcal",
     "protein": 109,
@@ -324,7 +324,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Eggplant",
+    "name": "Eggplant (cooked)",
     "calories": 250,
     "caloriesUnit": "kcal",
     "protein": 10,
@@ -486,7 +486,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Fava Beans",
+    "name": "Fava/Broad Beans (cooked)",
     "calories": 1100,
     "caloriesUnit": "kcal",
     "protein": 78,
@@ -567,7 +567,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Figs",
+    "name": "Figs (raw)",
     "calories": 740,
     "caloriesUnit": "kcal",
     "protein": 7.5,
@@ -729,7 +729,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Garbanzo Beans",
+    "name": "Garbanzo Beans (cooked)",
     "calories": 1640,
     "caloriesUnit": "kcal",
     "protein": 89,
@@ -1053,7 +1053,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Grapefruit",
+    "name": "Grapefruit (raw)",
     "calories": 420,
     "caloriesUnit": "kcal",
     "protein": 8,
@@ -1134,7 +1134,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Grapes",
+    "name": "Grapes (raw)",
     "calories": 690,
     "caloriesUnit": "kcal",
     "protein": 7.2,
@@ -1215,7 +1215,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Green Beans",
+    "name": "Green Beans (cooked)",
     "calories": 310,
     "caloriesUnit": "kcal",
     "protein": 18,
@@ -1296,7 +1296,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Green Peas",
+    "name": "Green Peas (cooked)",
     "calories": 810,
     "caloriesUnit": "kcal",
     "protein": 54,
@@ -1377,7 +1377,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Haddock",
+    "name": "Haddock (cooked)",
     "calories": 870,
     "caloriesUnit": "kcal",
     "protein": 196,
@@ -1539,7 +1539,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Ham",
+    "name": "Ham (cooked)",
     "calories": 1450,
     "caloriesUnit": "kcal",
     "protein": 210,
@@ -1701,7 +1701,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Honey",
+    "name": "Honey (raw)",
     "calories": 3040,
     "caloriesUnit": "kcal",
     "protein": 3,
@@ -1782,7 +1782,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Honeydew Melon",
+    "name": "Honeydew Melon (raw)",
     "calories": 360,
     "caloriesUnit": "kcal",
     "protein": 5.4,
@@ -1863,7 +1863,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Iceberg Lettuce",
+    "name": "Iceberg Lettuce (raw)",
     "calories": 140,
     "caloriesUnit": "kcal",
     "protein": 9,
@@ -2268,7 +2268,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Kidney Beans",
+    "name": "Kidney Beans (cooked)",
     "calories": 1270,
     "caloriesUnit": "kcal",
     "protein": 84,
@@ -2349,7 +2349,7 @@
     "zincUnit": "mg"
   },
   {
-    "name": "Kiwi",
+    "name": "Kiwi (raw)",
     "calories": 610,
     "caloriesUnit": "kcal",
     "protein": 11,
