@@ -3,15 +3,15 @@
     "food": "Lamb (cooked)",
     "portionSizes": [
       {
-        "description": "3 oz",
+        "description": "small portion",
         "grams": 85
       },
       {
-        "description": "4 oz",
+        "description": "medium portion",
         "grams": 113
       },
       {
-        "description": "6 oz",
+        "description": "large portion",
         "grams": 170
       }
     ]
@@ -105,15 +105,15 @@
     "food": "Lobster (cooked)",
     "portionSizes": [
       {
-        "description": "3 oz",
+        "description": "small portion",
         "grams": 85
       },
       {
-        "description": "4 oz",
+        "description": "medium portion",
         "grams": 113
       },
       {
-        "description": "6 oz",
+        "description": "large portion",
         "grams": 170
       }
     ]
@@ -122,15 +122,15 @@
     "food": "Mackerel (cooked)",
     "portionSizes": [
       {
-        "description": "3 oz",
+        "description": "small portion",
         "grams": 85
       },
       {
-        "description": "4 oz",
+        "description": "medium portion",
         "grams": 113
       },
       {
-        "description": "6 oz",
+        "description": "large portion",
         "grams": 170
       }
     ]
@@ -224,7 +224,7 @@
     "food": "Mozzarella",
     "portionSizes": [
       {
-        "description": "1 oz",
+        "description": "1 slice",
         "grams": 28
       },
       {
@@ -377,7 +377,7 @@
     "food": "Oysters (raw)",
     "portionSizes": [
       {
-        "description": "3 oz (6 medium)",
+        "description": "small portion (about 6 medium)",
         "grams": 85
       },
       {
@@ -394,7 +394,7 @@
     "food": "Oysters (cooked)",
     "portionSizes": [
       {
-        "description": "3 oz",
+        "description": "small portion",
         "grams": 85
       },
       {
@@ -649,15 +649,15 @@
     "food": "Pork (cooked)",
     "portionSizes": [
       {
-        "description": "3 oz",
+        "description": "small portion",
         "grams": 85
       },
       {
-        "description": "4 oz",
+        "description": "medium portion",
         "grams": 113
       },
       {
-        "description": "6 oz",
+        "description": "large portion",
         "grams": 170
       }
     ]
@@ -768,15 +768,15 @@
     "food": "Rainbow Trout (cooked)",
     "portionSizes": [
       {
-        "description": "3 oz",
+        "description": "small portion",
         "grams": 85
       },
       {
-        "description": "4 oz",
+        "description": "medium portion",
         "grams": 113
       },
       {
-        "description": "6 oz",
+        "description": "large portion",
         "grams": 170
       }
     ]
