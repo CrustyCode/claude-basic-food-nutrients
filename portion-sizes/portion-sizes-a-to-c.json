@@ -1,0 +1,835 @@
+[
+  {
+    "food": "Acerola Cherry",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 25
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 49
+      },
+      {
+        "description": "1 cup",
+        "grams": 98
+      }
+    ]
+  },
+  {
+    "food": "Almonds",
+    "portionSizes": [
+      {
+        "description": "1 handful (10-12 almonds)",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 35
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 70
+      }
+    ]
+  },
+  {
+    "food": "Apple (raw)",
+    "portionSizes": [
+      {
+        "description": "1 small apple",
+        "grams": 130
+      },
+      {
+        "description": "1 medium apple",
+        "grams": 180
+      },
+      {
+        "description": "1 large apple",
+        "grams": 230
+      }
+    ]
+  },
+  {
+    "food": "Apricot",
+    "portionSizes": [
+      {
+        "description": "1 small apricot",
+        "grams": 30
+      },
+      {
+        "description": "1 medium apricot",
+        "grams": 40
+      },
+      {
+        "description": "1 large apricot",
+        "grams": 55
+      }
+    ]
+  },
+  {
+    "food": "Asparagus (raw)",
+    "portionSizes": [
+      {
+        "description": "4 spears",
+        "grams": 60
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 67
+      },
+      {
+        "description": "1 cup",
+        "grams": 134
+      }
+    ]
+  },
+  {
+    "food": "Asparagus (cooked)",
+    "portionSizes": [
+      {
+        "description": "4 spears",
+        "grams": 60
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 90
+      },
+      {
+        "description": "1 cup",
+        "grams": 180
+      }
+    ]
+  },
+  {
+    "food": "Avocado",
+    "portionSizes": [
+      {
+        "description": "1/4 avocado",
+        "grams": 50
+      },
+      {
+        "description": "1/2 avocado",
+        "grams": 100
+      },
+      {
+        "description": "1 whole avocado",
+        "grams": 200
+      }
+    ]
+  },
+  {
+    "food": "Avocado oil",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 54
+      }
+    ]
+  },
+  {
+    "food": "Baking powder",
+    "portionSizes": [
+      {
+        "description": "1/4 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1/2 teaspoon",
+        "grams": 2
+      },
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      }
+    ]
+  },
+  {
+    "food": "Balsamic vinegar",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 15
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 64
+      }
+    ]
+  },
+  {
+    "food": "Banana",
+    "portionSizes": [
+      {
+        "description": "1 small banana",
+        "grams": 100
+      },
+      {
+        "description": "1 medium banana",
+        "grams": 120
+      },
+      {
+        "description": "1 large banana",
+        "grams": 140
+      }
+    ]
+  },
+  {
+    "food": "Banana (dried)",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 10
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 30
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 60
+      }
+    ]
+  },
+  {
+    "food": "Beef (Ground, 85% lean, cooked)",
+    "portionSizes": [
+      {
+        "description": "small portion (palm-sized)",
+        "grams": 85
+      },
+      {
+        "description": "medium portion",
+        "grams": 113
+      },
+      {
+        "description": "large portion",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Beef Liver",
+    "portionSizes": [
+      {
+        "description": "small portion",
+        "grams": 85
+      },
+      {
+        "description": "medium portion",
+        "grams": 113
+      },
+      {
+        "description": "large portion",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Beet Greens (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup",
+        "grams": 19
+      },
+      {
+        "description": "1 cup",
+        "grams": 38
+      },
+      {
+        "description": "1 cup packed",
+        "grams": 76
+      }
+    ]
+  },
+  {
+    "food": "Beet Greens (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 36
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 72
+      },
+      {
+        "description": "1 cup",
+        "grams": 144
+      }
+    ]
+  },
+  {
+    "food": "Black Beans (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 43
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 86
+      },
+      {
+        "description": "1 cup",
+        "grams": 172
+      }
+    ]
+  },
+  {
+    "food": "Blueberries",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 37
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 74
+      },
+      {
+        "description": "1 cup",
+        "grams": 148
+      }
+    ]
+  },
+  {
+    "food": "Blackstrap Molasses",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 7
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 20
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 85
+      }
+    ]
+  },
+  {
+    "food": "Brazil Nuts",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon (2 nuts)",
+        "grams": 10
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 33
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 66
+      }
+    ]
+  },
+  {
+    "food": "Broccoli (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup chopped",
+        "grams": 46
+      },
+      {
+        "description": "1 cup chopped",
+        "grams": 91
+      },
+      {
+        "description": "1 medium stalk",
+        "grams": 148
+      }
+    ]
+  },
+  {
+    "food": "Broccoli (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup chopped",
+        "grams": 78
+      },
+      {
+        "description": "1 cup chopped",
+        "grams": 156
+      },
+      {
+        "description": "1 medium stalk",
+        "grams": 180
+      }
+    ]
+  },
+  {
+    "food": "Brown Rice (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 49
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 98
+      },
+      {
+        "description": "1 cup",
+        "grams": 195
+      }
+    ]
+  },
+  {
+    "food": "Brussels Sprouts (raw)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 22
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 44
+      },
+      {
+        "description": "1 cup",
+        "grams": 88
+      }
+    ]
+  },
+  {
+    "food": "Brussels Sprouts (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 39
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 78
+      },
+      {
+        "description": "1 cup",
+        "grams": 156
+      }
+    ]
+  },
+  {
+    "food": "Butter (salted)",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 stick",
+        "grams": 28
+      }
+    ]
+  },
+  {
+    "food": "Butternut Squash",
+    "portionSizes": [
+      {
+        "description": "1/4 cup cubed",
+        "grams": 41
+      },
+      {
+        "description": "1/2 cup cubed",
+        "grams": 82
+      },
+      {
+        "description": "1 cup cubed",
+        "grams": 205
+      }
+    ]
+  },
+  {
+    "food": "Cabbage (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup shredded",
+        "grams": 45
+      },
+      {
+        "description": "1 cup shredded",
+        "grams": 89
+      },
+      {
+        "description": "1/4 head",
+        "grams": 225
+      }
+    ]
+  },
+  {
+    "food": "Cabbage (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 38
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 75
+      },
+      {
+        "description": "1 cup",
+        "grams": 150
+      }
+    ]
+  },
+  {
+    "food": "Carrots (raw)",
+    "portionSizes": [
+      {
+        "description": "1 small carrot",
+        "grams": 50
+      },
+      {
+        "description": "1 medium carrot",
+        "grams": 61
+      },
+      {
+        "description": "1 large carrot",
+        "grams": 72
+      }
+    ]
+  },
+  {
+    "food": "Carrots (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup sliced",
+        "grams": 39
+      },
+      {
+        "description": "1/2 cup sliced",
+        "grams": 78
+      },
+      {
+        "description": "1 cup sliced",
+        "grams": 156
+      }
+    ]
+  },
+  {
+    "food": "Cauliflower (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 31
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 62
+      },
+      {
+        "description": "1 cup",
+        "grams": 124
+      }
+    ]
+  },
+  {
+    "food": "Celery (raw)",
+    "portionSizes": [
+      {
+        "description": "1 medium stalk",
+        "grams": 40
+      },
+      {
+        "description": "1/2 cup chopped",
+        "grams": 51
+      },
+      {
+        "description": "1 cup chopped",
+        "grams": 101
+      }
+    ]
+  },
+  {
+    "food": "Cheddar Cheese",
+    "portionSizes": [
+      {
+        "description": "1 slice",
+        "grams": 28
+      },
+      {
+        "description": "1/4 cup shredded",
+        "grams": 28
+      },
+      {
+        "description": "1/2 cup shredded",
+        "grams": 56
+      }
+    ]
+  },
+  {
+    "food": "Chicken Breast (skinless, cooked)",
+    "portionSizes": [
+      {
+        "description": "small portion (palm-sized)",
+        "grams": 85
+      },
+      {
+        "description": "medium portion",
+        "grams": 113
+      },
+      {
+        "description": "large portion",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Chicken Liver",
+    "portionSizes": [
+      {
+        "description": "small portion",
+        "grams": 85
+      },
+      {
+        "description": "medium portion",
+        "grams": 113
+      },
+      {
+        "description": "large portion",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Chickpeas (dried)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 50
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 100
+      },
+      {
+        "description": "1 cup",
+        "grams": 200
+      }
+    ]
+  },
+  {
+    "food": "Cinnamon",
+    "portionSizes": [
+      {
+        "description": "1/4 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1/2 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1 teaspoon",
+        "grams": 3
+      }
+    ]
+  },
+  {
+    "food": "Clams",
+    "portionSizes": [
+      {
+        "description": "small portion",
+        "grams": 85
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 120
+      },
+      {
+        "description": "1 cup",
+        "grams": 240
+      }
+    ]
+  },
+  {
+    "food": "Cod Liver Oil",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 54
+      }
+    ]
+  },
+  {
+    "food": "Collard Greens (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup chopped",
+        "grams": 18
+      },
+      {
+        "description": "1 cup chopped",
+        "grams": 36
+      },
+      {
+        "description": "1 cup packed",
+        "grams": 72
+      }
+    ]
+  },
+  {
+    "food": "Collard Greens (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 48
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 95
+      },
+      {
+        "description": "1 cup",
+        "grams": 190
+      }
+    ]
+  },
+  {
+    "food": "Nut, Coconut Meat (raw)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup shredded",
+        "grams": 20
+      },
+      {
+        "description": "1/2 cup shredded",
+        "grams": 40
+      },
+      {
+        "description": "1 cup shredded",
+        "grams": 80
+      }
+    ]
+  },
+  {
+    "food": "Corn (sweet, cooked)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup kernels",
+        "grams": 82
+      },
+      {
+        "description": "1 cup kernels",
+        "grams": 164
+      },
+      {
+        "description": "1 medium ear",
+        "grams": 103
+      }
+    ]
+  },
+  {
+    "food": "Corn (sweet, cooked)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup kernels",
+        "grams": 82
+      },
+      {
+        "description": "1 cup kernels",
+        "grams": 164
+      },
+      {
+        "description": "1 medium ear",
+        "grams": 103
+      }
+    ]
+  },
+  {
+    "food": "Cornstarch",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 3
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 8
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 32
+      }
+    ]
+  },
+  {
+    "food": "Cottage Cheese (low-fat)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 57
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 113
+      },
+      {
+        "description": "1 cup",
+        "grams": 226
+      }
+    ]
+  },
+  {
+    "food": "Cucumber (raw)",
+    "portionSizes": [
+      {
+        "description": "1/4 cucumber",
+        "grams": 75
+      },
+      {
+        "description": "1/2 cucumber",
+        "grams": 150
+      },
+      {
+        "description": "1 cup sliced",
+        "grams": 119
+      }
+    ]
+  },
+  {
+    "food": "Cumin",
+    "portionSizes": [
+      {
+        "description": "1/4 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1/2 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1 teaspoon",
+        "grams": 2
+      }
+    ]
+  }
+]

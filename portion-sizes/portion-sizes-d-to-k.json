@@ -1,0 +1,733 @@
+[
+  {
+    "food": "Dark Chocolate (70-85%)",
+    "portionSizes": [
+      {
+        "description": "1 small square",
+        "grams": 10
+      },
+      {
+        "description": "1 serving (4-5 squares)",
+        "grams": 40
+      },
+      {
+        "description": "1/4 bar",
+        "grams": 25
+      }
+    ]
+  },
+  {
+    "food": "Dark Leafy Greens Mix",
+    "portionSizes": [
+      {
+        "description": "1/2 cup",
+        "grams": 18
+      },
+      {
+        "description": "1 cup",
+        "grams": 36
+      },
+      {
+        "description": "1 cup packed",
+        "grams": 72
+      }
+    ]
+  },
+  {
+    "food": "Dates (raw)",
+    "portionSizes": [
+      {
+        "description": "1 small date",
+        "grams": 7
+      },
+      {
+        "description": "1 medium date",
+        "grams": 8
+      },
+      {
+        "description": "1 large (Medjool) date",
+        "grams": 24
+      }
+    ]
+  },
+  {
+    "food": "Dried Apricots",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 15
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 33
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 65
+      }
+    ]
+  },
+  {
+    "food": "Dragon Fruit (raw)",
+    "portionSizes": [
+      {
+        "description": "1/4 fruit",
+        "grams": 100
+      },
+      {
+        "description": "1/2 fruit",
+        "grams": 200
+      },
+      {
+        "description": "1 whole fruit",
+        "grams": 400
+      }
+    ]
+  },
+  {
+    "food": "Duck Meat (cooked)",
+    "portionSizes": [
+      {
+        "description": "small portion",
+        "grams": 85
+      },
+      {
+        "description": "medium portion",
+        "grams": 113
+      },
+      {
+        "description": "large portion",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Edamame (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 39
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 78
+      },
+      {
+        "description": "1 cup",
+        "grams": 155
+      }
+    ]
+  },
+  {
+    "food": "Eggplant (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup cubed",
+        "grams": 25
+      },
+      {
+        "description": "1/2 cup cubed",
+        "grams": 50
+      },
+      {
+        "description": "1 cup cubed",
+        "grams": 99
+      }
+    ]
+  },
+  {
+    "food": "Eggs (chicken, cooked)",
+    "portionSizes": [
+      {
+        "description": "1 medium egg",
+        "grams": 44
+      },
+      {
+        "description": "1 large egg",
+        "grams": 50
+      },
+      {
+        "description": "1 extra large egg",
+        "grams": 56
+      }
+    ]
+  },
+  {
+    "food": "Egg Yolk",
+    "portionSizes": [
+      {
+        "description": "1 yolk",
+        "grams": 17
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 17
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 60
+      }
+    ]
+  },
+  {
+    "food": "Extra virgin olive oil",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 54
+      }
+    ]
+  },
+  {
+    "food": "Fava/Broad Beans (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 43
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 85
+      },
+      {
+        "description": "1 cup",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Flax seeds",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 3
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 10
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 42
+      }
+    ]
+  },
+  {
+    "food": "Flaxseed Oil",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 54
+      }
+    ]
+  },
+  {
+    "food": "Figs (raw)",
+    "portionSizes": [
+      {
+        "description": "1 small fig",
+        "grams": 40
+      },
+      {
+        "description": "1 medium fig",
+        "grams": 50
+      },
+      {
+        "description": "1 large fig",
+        "grams": 64
+      }
+    ]
+  },
+  {
+    "food": "Fortified Cereal",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 15
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 30
+      },
+      {
+        "description": "1 cup",
+        "grams": 60
+      }
+    ]
+  },
+  {
+    "food": "Fortified Milk",
+    "portionSizes": [
+      {
+        "description": "1/4 glass (60ml)",
+        "grams": 62
+      },
+      {
+        "description": "1/2 glass (120ml)",
+        "grams": 123
+      },
+      {
+        "description": "1 glass (240ml)",
+        "grams": 246
+      }
+    ]
+  },
+  {
+    "food": "Flounder (cooked)",
+    "portionSizes": [
+      {
+        "description": "small portion",
+        "grams": 85
+      },
+      {
+        "description": "medium portion",
+        "grams": 113
+      },
+      {
+        "description": "large portion",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Garbanzo Beans (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 41
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 82
+      },
+      {
+        "description": "1 cup",
+        "grams": 164
+      }
+    ]
+  },
+  {
+    "food": "Garlic powder",
+    "portionSizes": [
+      {
+        "description": "1/4 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1/2 teaspoon",
+        "grams": 2
+      },
+      {
+        "description": "1 teaspoon",
+        "grams": 3
+      }
+    ]
+  },
+  {
+    "food": "Garlic (raw)",
+    "portionSizes": [
+      {
+        "description": "1 clove",
+        "grams": 3
+      },
+      {
+        "description": "3 cloves",
+        "grams": 9
+      },
+      {
+        "description": "1 tablespoon minced",
+        "grams": 9
+      }
+    ]
+  },
+  {
+    "food": "Garlic (cooked)",
+    "portionSizes": [
+      {
+        "description": "1 clove",
+        "grams": 3
+      },
+      {
+        "description": "3 cloves",
+        "grams": 9
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 10
+      }
+    ]
+  },
+  {
+    "food": "Gram flour",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 8
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 30
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 60
+      }
+    ]
+  },
+  {
+    "food": "Ginger (cooked)",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 2
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 6
+      },
+      {
+        "description": "1/4 cup sliced",
+        "grams": 24
+      }
+    ]
+  },
+  {
+    "food": "Guava",
+    "portionSizes": [
+      {
+        "description": "1 small guava",
+        "grams": 55
+      },
+      {
+        "description": "1 medium guava",
+        "grams": 90
+      },
+      {
+        "description": "1 cup cubed",
+        "grams": 165
+      }
+    ]
+  },
+  {
+    "food": "Grapefruit (raw)",
+    "portionSizes": [
+      {
+        "description": "1/4 grapefruit",
+        "grams": 58
+      },
+      {
+        "description": "1/2 grapefruit",
+        "grams": 115
+      },
+      {
+        "description": "1 whole grapefruit",
+        "grams": 230
+      }
+    ]
+  },
+  {
+    "food": "Grapes (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup",
+        "grams": 75
+      },
+      {
+        "description": "1 cup",
+        "grams": 151
+      },
+      {
+        "description": "1.5 cups",
+        "grams": 227
+      }
+    ]
+  },
+  {
+    "food": "Green Beans (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 31
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 62
+      },
+      {
+        "description": "1 cup",
+        "grams": 125
+      }
+    ]
+  },
+  {
+    "food": "Green Peas (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 40
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 80
+      },
+      {
+        "description": "1 cup",
+        "grams": 160
+      }
+    ]
+  },
+  {
+    "food": "Haddock (cooked)",
+    "portionSizes": [
+      {
+        "description": "small portion",
+        "grams": 85
+      },
+      {
+        "description": "medium portion",
+        "grams": 113
+      },
+      {
+        "description": "large portion",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Halibut (cooked)",
+    "portionSizes": [
+      {
+        "description": "small portion",
+        "grams": 85
+      },
+      {
+        "description": "medium portion",
+        "grams": 113
+      },
+      {
+        "description": "large portion",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Ham (cooked)",
+    "portionSizes": [
+      {
+        "description": "1 slice",
+        "grams": 28
+      },
+      {
+        "description": "small portion",
+        "grams": 85
+      },
+      {
+        "description": "medium portion",
+        "grams": 113
+      }
+    ]
+  },
+  {
+    "food": "Hemp Seeds",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 10
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 40
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 80
+      }
+    ]
+  },
+  {
+    "food": "Hazelnuts (raw)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 34
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 68
+      },
+      {
+        "description": "1 cup",
+        "grams": 135
+      }
+    ]
+  },
+  {
+    "food": "Honey (raw)",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 7
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 21
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 85
+      }
+    ]
+  },
+  {
+    "food": "Honeydew Melon (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup cubed",
+        "grams": 85
+      },
+      {
+        "description": "1 cup cubed",
+        "grams": 170
+      },
+      {
+        "description": "1/8 melon",
+        "grams": 125
+      }
+    ]
+  },
+  {
+    "food": "Iceberg Lettuce (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup shredded",
+        "grams": 36
+      },
+      {
+        "description": "1 cup shredded",
+        "grams": 72
+      },
+      {
+        "description": "1/4 head",
+        "grams": 135
+      }
+    ]
+  },
+  {
+    "food": "Jackfruit (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup sliced",
+        "grams": 83
+      },
+      {
+        "description": "1 cup sliced",
+        "grams": 165
+      },
+      {
+        "description": "1.5 cups sliced",
+        "grams": 248
+      }
+    ]
+  },
+  {
+    "food": "Jalapenos (raw)",
+    "portionSizes": [
+      {
+        "description": "1 small pepper",
+        "grams": 10
+      },
+      {
+        "description": "1 medium pepper",
+        "grams": 14
+      },
+      {
+        "description": "1 large pepper",
+        "grams": 20
+      }
+    ]
+  },
+  {
+    "food": "Kale (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup chopped",
+        "grams": 17
+      },
+      {
+        "description": "1 cup chopped",
+        "grams": 33
+      },
+      {
+        "description": "1 cup packed",
+        "grams": 67
+      }
+    ]
+  },
+  {
+    "food": "Kale (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 33
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 65
+      },
+      {
+        "description": "1 cup",
+        "grams": 130
+      }
+    ]
+  },
+  {
+    "food": "Kidney Beans (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 44
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 89
+      },
+      {
+        "description": "1 cup",
+        "grams": 177
+      }
+    ]
+  },
+  {
+    "food": "Kiwi (raw)",
+    "portionSizes": [
+      {
+        "description": "1 small kiwi",
+        "grams": 60
+      },
+      {
+        "description": "1 medium kiwi",
+        "grams": 69
+      },
+      {
+        "description": "1 large kiwi",
+        "grams": 91
+      }
+    ]
+  }
+]
