@@ -1,0 +1,546 @@
+[
+  {
+    "food": "Salmon (cooked)",
+    "portionSizes": [
+      {
+        "description": "3 oz",
+        "grams": 85
+      },
+      {
+        "description": "4 oz",
+        "grams": 113
+      },
+      {
+        "description": "6 oz",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Sardines (cooked)",
+    "portionSizes": [
+      {
+        "description": "1 oz (about 2 small)",
+        "grams": 28
+      },
+      {
+        "description": "3 oz",
+        "grams": 85
+      },
+      {
+        "description": "4 oz",
+        "grams": 113
+      }
+    ]
+  },
+  {
+    "food": "Shrimp (cooked)",
+    "portionSizes": [
+      {
+        "description": "3 oz (about 6 large)",
+        "grams": 85
+      },
+      {
+        "description": "4 oz",
+        "grams": 113
+      },
+      {
+        "description": "6 oz",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Soybeans (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 43
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 86
+      },
+      {
+        "description": "1 cup",
+        "grams": 172
+      }
+    ]
+  },
+  {
+    "food": "Spinach (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup",
+        "grams": 15
+      },
+      {
+        "description": "1 cup",
+        "grams": 30
+      },
+      {
+        "description": "1 cup packed",
+        "grams": 60
+      }
+    ]
+  },
+  {
+    "food": "Spinach (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 45
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 90
+      },
+      {
+        "description": "1 cup",
+        "grams": 180
+      }
+    ]
+  },
+  {
+    "food": "Squash (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 51
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 103
+      },
+      {
+        "description": "1 cup",
+        "grams": 205
+      }
+    ]
+  },
+  {
+    "food": "Strawberries (raw)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 38
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 76
+      },
+      {
+        "description": "1 cup",
+        "grams": 152
+      }
+    ]
+  },
+  {
+    "food": "Sunflower Seeds (raw)",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 9
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 35
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 70
+      }
+    ]
+  },
+  {
+    "food": "Sunflower Seeds (sprouted)",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 10
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 36
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 72
+      }
+    ]
+  },
+  {
+    "food": "Sweet Potato (cooked)",
+    "portionSizes": [
+      {
+        "description": "1 small potato",
+        "grams": 90
+      },
+      {
+        "description": "1 medium potato",
+        "grams": 150
+      },
+      {
+        "description": "1 large potato",
+        "grams": 180
+      }
+    ]
+  },
+  {
+    "food": "Swiss Chard (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 44
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 88
+      },
+      {
+        "description": "1 cup",
+        "grams": 175
+      }
+    ]
+  },
+  {
+    "food": "Tilapia (cooked)",
+    "portionSizes": [
+      {
+        "description": "3 oz",
+        "grams": 85
+      },
+      {
+        "description": "4 oz",
+        "grams": 113
+      },
+      {
+        "description": "6 oz",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Tofu (firm, raw)",
+    "portionSizes": [
+      {
+        "description": "1/4 block (3 oz)",
+        "grams": 85
+      },
+      {
+        "description": "1/2 block (6 oz)",
+        "grams": 170
+      },
+      {
+        "description": "1 cup cubed",
+        "grams": 252
+      }
+    ]
+  },
+  {
+    "food": "Tofu (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 63
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 126
+      },
+      {
+        "description": "1 cup",
+        "grams": 252
+      }
+    ]
+  },
+  {
+    "food": "Tomato (raw)",
+    "portionSizes": [
+      {
+        "description": "1 small tomato",
+        "grams": 91
+      },
+      {
+        "description": "1 medium tomato",
+        "grams": 123
+      },
+      {
+        "description": "1 large tomato",
+        "grams": 182
+      }
+    ]
+  },
+  {
+    "food": "Tomato (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 60
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 120
+      },
+      {
+        "description": "1 cup",
+        "grams": 240
+      }
+    ]
+  },
+  {
+    "food": "Tuna (canned)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 60
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 120
+      },
+      {
+        "description": "1 can (5 oz)",
+        "grams": 142
+      }
+    ]
+  },
+  {
+    "food": "Tuna (cooked, steak)",
+    "portionSizes": [
+      {
+        "description": "3 oz",
+        "grams": 85
+      },
+      {
+        "description": "4 oz",
+        "grams": 113
+      },
+      {
+        "description": "6 oz",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Turkey Breast (cooked)",
+    "portionSizes": [
+      {
+        "description": "3 oz (palm-sized)",
+        "grams": 85
+      },
+      {
+        "description": "4 oz",
+        "grams": 113
+      },
+      {
+        "description": "6 oz",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Turnip Greens (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 36
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 72
+      },
+      {
+        "description": "1 cup",
+        "grams": 144
+      }
+    ]
+  },
+  {
+    "food": "Turnips (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup cubed",
+        "grams": 39
+      },
+      {
+        "description": "1/2 cup cubed",
+        "grams": 78
+      },
+      {
+        "description": "1 cup cubed",
+        "grams": 156
+      }
+    ]
+  },
+  {
+    "food": "Venison (cooked)",
+    "portionSizes": [
+      {
+        "description": "3 oz",
+        "grams": 85
+      },
+      {
+        "description": "4 oz",
+        "grams": 113
+      },
+      {
+        "description": "6 oz",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Walnuts (raw)",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon chopped",
+        "grams": 8
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 25
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 50
+      }
+    ]
+  },
+  {
+    "food": "Watercress (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup chopped",
+        "grams": 17
+      },
+      {
+        "description": "1 cup chopped",
+        "grams": 34
+      },
+      {
+        "description": "1 cup whole leaves",
+        "grams": 50
+      }
+    ]
+  },
+  {
+    "food": "Watermelon (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup cubed",
+        "grams": 76
+      },
+      {
+        "description": "1 cup cubed",
+        "grams": 152
+      },
+      {
+        "description": "1 wedge (1/16 melon)",
+        "grams": 286
+      }
+    ]
+  },
+  {
+    "food": "White Rice (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 39
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 79
+      },
+      {
+        "description": "1 cup",
+        "grams": 158
+      }
+    ]
+  },
+  {
+    "food": "Yam (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup cubed",
+        "grams": 34
+      },
+      {
+        "description": "1/2 cup cubed",
+        "grams": 68
+      },
+      {
+        "description": "1 cup cubed",
+        "grams": 136
+      }
+    ]
+  },
+  {
+    "food": "Yellowfin Tuna (cooked)",
+    "portionSizes": [
+      {
+        "description": "3 oz",
+        "grams": 85
+      },
+      {
+        "description": "4 oz",
+        "grams": 113
+      },
+      {
+        "description": "6 oz",
+        "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Yogurt (plain)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 61
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 123
+      },
+      {
+        "description": "1 cup",
+        "grams": 245
+      }
+    ]
+  },
+  {
+    "food": "Yuca (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 34
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 69
+      },
+      {
+        "description": "1 cup",
+        "grams": 137
+      }
+    ]
+  },
+  {
+    "food": "Zucchini/Courgette (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup sliced",
+        "grams": 45
+      },
+      {
+        "description": "1/2 cup sliced",
+        "grams": 90
+      },
+      {
+        "description": "1 cup sliced",
+        "grams": 180
+      }
+    ]
+  }
+]
