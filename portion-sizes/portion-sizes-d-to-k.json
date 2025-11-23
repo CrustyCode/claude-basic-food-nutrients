@@ -1,5 +1,39 @@
 [
   {
+    "food": "Dark Chocolate (70-85%)",
+    "portionSizes": [
+      {
+        "description": "1 small square",
+        "grams": 10
+      },
+      {
+        "description": "1 serving (4-5 squares)",
+        "grams": 40
+      },
+      {
+        "description": "1/4 bar",
+        "grams": 25
+      }
+    ]
+  },
+  {
+    "food": "Dark Leafy Greens Mix",
+    "portionSizes": [
+      {
+        "description": "1/2 cup",
+        "grams": 18
+      },
+      {
+        "description": "1 cup",
+        "grams": 36
+      },
+      {
+        "description": "1 cup packed",
+        "grams": 72
+      }
+    ]
+  },
+  {
     "food": "Dates (raw)",
     "portionSizes": [
       {
@@ -13,6 +47,23 @@
       {
         "description": "1 large (Medjool) date",
         "grams": 24
+      }
+    ]
+  },
+  {
+    "food": "Dried Apricots",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 15
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 33
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 65
       }
     ]
   },
@@ -102,6 +153,40 @@
     ]
   },
   {
+    "food": "Egg Yolk",
+    "portionSizes": [
+      {
+        "description": "1 yolk",
+        "grams": 17
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 17
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 60
+      }
+    ]
+  },
+  {
+    "food": "Extra virgin olive oil",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 54
+      }
+    ]
+  },
+  {
     "food": "Fava/Broad Beans (cooked)",
     "portionSizes": [
       {
@@ -119,6 +204,40 @@
     ]
   },
   {
+    "food": "Flax seeds",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 3
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 10
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 42
+      }
+    ]
+  },
+  {
+    "food": "Flaxseed Oil",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 54
+      }
+    ]
+  },
+  {
     "food": "Figs (raw)",
     "portionSizes": [
       {
@@ -132,6 +251,40 @@
       {
         "description": "1 large fig",
         "grams": 64
+      }
+    ]
+  },
+  {
+    "food": "Fortified Cereal",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 15
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 30
+      },
+      {
+        "description": "1 cup",
+        "grams": 60
+      }
+    ]
+  },
+  {
+    "food": "Fortified Milk",
+    "portionSizes": [
+      {
+        "description": "1/4 glass (60ml)",
+        "grams": 62
+      },
+      {
+        "description": "1/2 glass (120ml)",
+        "grams": 123
+      },
+      {
+        "description": "1 glass (240ml)",
+        "grams": 246
       }
     ]
   },
@@ -170,6 +323,23 @@
     ]
   },
   {
+    "food": "Garlic powder",
+    "portionSizes": [
+      {
+        "description": "1/4 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1/2 teaspoon",
+        "grams": 2
+      },
+      {
+        "description": "1 teaspoon",
+        "grams": 3
+      }
+    ]
+  },
+  {
     "food": "Garlic (raw)",
     "portionSizes": [
       {
@@ -204,6 +374,23 @@
     ]
   },
   {
+    "food": "Gram flour",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 8
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 30
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 60
+      }
+    ]
+  },
+  {
     "food": "Ginger (cooked)",
     "portionSizes": [
       {
@@ -217,6 +404,23 @@
       {
         "description": "1/4 cup sliced",
         "grams": 24
+      }
+    ]
+  },
+  {
+    "food": "Guava",
+    "portionSizes": [
+      {
+        "description": "1 small guava",
+        "grams": 55
+      },
+      {
+        "description": "1 medium guava",
+        "grams": 90
+      },
+      {
+        "description": "1 cup cubed",
+        "grams": 165
       }
     ]
   },
@@ -336,6 +540,23 @@
       {
         "description": "medium portion",
         "grams": 113
+      }
+    ]
+  },
+  {
+    "food": "Hemp Seeds",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 10
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 40
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 80
       }
     ]
   },

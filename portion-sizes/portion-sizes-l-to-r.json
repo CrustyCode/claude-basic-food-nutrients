@@ -17,6 +17,23 @@
     ]
   },
   {
+    "food": "Lean Beef (95% lean)",
+    "portionSizes": [
+      {
+        "description": "small portion (palm-sized)",
+        "grams": 85
+      },
+      {
+        "description": "medium portion",
+        "grams": 113
+      },
+      {
+        "description": "large portion",
+        "grams": 170
+      }
+    ]
+  },
+  {
     "food": "Leeks (cooked)",
     "portionSizes": [
       {
@@ -47,6 +64,23 @@
       {
         "description": "1 cup",
         "grams": 198
+      }
+    ]
+  },
+  {
+    "food": "Lentils (dried)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 50
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 96
+      },
+      {
+        "description": "1 cup",
+        "grams": 192
       }
     ]
   },
@@ -132,6 +166,74 @@
       {
         "description": "large portion",
         "grams": 170
+      }
+    ]
+  },
+  {
+    "food": "Mayonnaise",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 58
+      }
+    ]
+  },
+  {
+    "food": "Mustard",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 15
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 60
+      }
+    ]
+  },
+  {
+    "food": "Mustard Greens (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup chopped",
+        "grams": 28
+      },
+      {
+        "description": "1 cup chopped",
+        "grams": 56
+      },
+      {
+        "description": "1 cup packed",
+        "grams": 112
+      }
+    ]
+  },
+  {
+    "food": "Mustard Greens (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 35
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 70
+      },
+      {
+        "description": "1 cup",
+        "grams": 140
       }
     ]
   },
@@ -255,6 +357,40 @@
     ]
   },
   {
+    "food": "Natto (fermented soybeans)",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 15
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 45
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 90
+      }
+    ]
+  },
+  {
+    "food": "Nutritional Yeast (fortified)",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 2
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 5
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 15
+      }
+    ]
+  },
+  {
     "food": "Navy Beans (cooked)",
     "portionSizes": [
       {
@@ -302,6 +438,23 @@
       {
         "description": "1 cup",
         "grams": 160
+      }
+    ]
+  },
+  {
+    "food": "Olive oil",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 54
       }
     ]
   },
@@ -408,6 +561,23 @@
     ]
   },
   {
+    "food": "Oysters (Eastern, wild)",
+    "portionSizes": [
+      {
+        "description": "small portion (about 6 medium)",
+        "grams": 85
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 120
+      },
+      {
+        "description": "1 cup",
+        "grams": 240
+      }
+    ]
+  },
+  {
     "food": "Papaya (raw)",
     "portionSizes": [
       {
@@ -421,6 +591,57 @@
       {
         "description": "1 small papaya",
         "grams": 157
+      }
+    ]
+  },
+  {
+    "food": "Paprika",
+    "portionSizes": [
+      {
+        "description": "1/4 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1/2 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1 teaspoon",
+        "grams": 2
+      }
+    ]
+  },
+  {
+    "food": "Parmesan Cheese",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon grated",
+        "grams": 5
+      },
+      {
+        "description": "1/4 cup grated",
+        "grams": 25
+      },
+      {
+        "description": "1/2 cup grated",
+        "grams": 50
+      }
+    ]
+  },
+  {
+    "food": "Parsley (fresh)",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon chopped",
+        "grams": 4
+      },
+      {
+        "description": "1/4 cup chopped",
+        "grams": 15
+      },
+      {
+        "description": "1/2 cup chopped",
+        "grams": 30
       }
     ]
   },
@@ -459,6 +680,23 @@
     ]
   },
   {
+    "food": "Peanut butter",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 16
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 64
+      }
+    ]
+  },
+  {
     "food": "Peach (raw)",
     "portionSizes": [
       {
@@ -489,6 +727,23 @@
       {
         "description": "1/2 cup",
         "grams": 73
+      }
+    ]
+  },
+  {
+    "food": "Pepper",
+    "portionSizes": [
+      {
+        "description": "1/4 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1/2 teaspoon",
+        "grams": 1
+      },
+      {
+        "description": "1 teaspoon",
+        "grams": 2
       }
     ]
   },
@@ -544,6 +799,57 @@
     ]
   },
   {
+    "food": "Pine Nuts",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 9
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 34
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 68
+      }
+    ]
+  },
+  {
+    "food": "Plain flour",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 8
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 31
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 63
+      }
+    ]
+  },
+  {
+    "food": "Pumpkin Seeds",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 9
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 35
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 70
+      }
+    ]
+  },
+  {
     "food": "Peppers (bell peppers, raw)",
     "portionSizes": [
       {
@@ -562,6 +868,40 @@
   },
   {
     "food": "Peppers (bell peppers, cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 34
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 68
+      },
+      {
+        "description": "1 cup",
+        "grams": 136
+      }
+    ]
+  },
+  {
+    "food": "Red Bell Pepper (raw)",
+    "portionSizes": [
+      {
+        "description": "1/4 pepper",
+        "grams": 30
+      },
+      {
+        "description": "1/2 pepper",
+        "grams": 60
+      },
+      {
+        "description": "1 whole pepper",
+        "grams": 119
+      }
+    ]
+  },
+  {
+    "food": "Red Bell Pepper (cooked)",
     "portionSizes": [
       {
         "description": "1/4 cup",
@@ -714,6 +1054,23 @@
     ]
   },
   {
+    "food": "Quinoa (uncooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 43
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 85
+      },
+      {
+        "description": "1 cup",
+        "grams": 170
+      }
+    ]
+  },
+  {
     "food": "Quinoa (cooked)",
     "portionSizes": [
       {
@@ -812,6 +1169,23 @@
       {
         "description": "1 cup",
         "grams": 123
+      }
+    ]
+  },
+  {
+    "food": "Rose Hips",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 6
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 23
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 45
       }
     ]
   },

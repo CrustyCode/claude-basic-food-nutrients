@@ -1,5 +1,22 @@
 [
   {
+    "food": "Salt",
+    "portionSizes": [
+      {
+        "description": "1/4 teaspoon",
+        "grams": 2
+      },
+      {
+        "description": "1/2 teaspoon",
+        "grams": 3
+      },
+      {
+        "description": "1 teaspoon",
+        "grams": 6
+      }
+    ]
+  },
+  {
     "food": "Salmon (cooked)",
     "portionSizes": [
       {
@@ -30,6 +47,108 @@
       {
         "description": "large portion",
         "grams": 113
+      }
+    ]
+  },
+  {
+    "food": "Sardines (canned)",
+    "portionSizes": [
+      {
+        "description": "small serving (about 2 sardines)",
+        "grams": 28
+      },
+      {
+        "description": "medium portion",
+        "grams": 85
+      },
+      {
+        "description": "1 small can",
+        "grams": 106
+      }
+    ]
+  },
+  {
+    "food": "Sardines (with bones)",
+    "portionSizes": [
+      {
+        "description": "small serving (about 2 sardines)",
+        "grams": 30
+      },
+      {
+        "description": "medium portion",
+        "grams": 85
+      },
+      {
+        "description": "large portion",
+        "grams": 113
+      }
+    ]
+  },
+  {
+    "food": "Sesame oil",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 55
+      }
+    ]
+  },
+  {
+    "food": "Sesame Seeds",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 3
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 9
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 36
+      }
+    ]
+  },
+  {
+    "food": "Soy sauce",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 6
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 18
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 72
+      }
+    ]
+  },
+  {
+    "food": "Spirulina (dried)",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 2
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 7
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 28
       }
     ]
   },
@@ -119,6 +238,23 @@
     ]
   },
   {
+    "food": "Sugar",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 4
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 12
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 50
+      }
+    ]
+  },
+  {
     "food": "Strawberries (raw)",
     "portionSizes": [
       {
@@ -170,6 +306,40 @@
     ]
   },
   {
+    "food": "Sunflower oil",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 55
+      }
+    ]
+  },
+  {
+    "food": "Sunflower Seed Butter",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 16
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 64
+      }
+    ]
+  },
+  {
     "food": "Sweet Potato (cooked)",
     "portionSizes": [
       {
@@ -183,6 +353,23 @@
       {
         "description": "1 large potato",
         "grams": 180
+      }
+    ]
+  },
+  {
+    "food": "Swiss Chard (raw)",
+    "portionSizes": [
+      {
+        "description": "1/2 cup chopped",
+        "grams": 18
+      },
+      {
+        "description": "1 cup chopped",
+        "grams": 36
+      },
+      {
+        "description": "1 cup packed",
+        "grams": 72
       }
     ]
   },
@@ -391,6 +578,74 @@
     ]
   },
   {
+    "food": "Wheat Bran",
+    "portionSizes": [
+      {
+        "description": "1 tablespoon",
+        "grams": 4
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 15
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 30
+      }
+    ]
+  },
+  {
+    "food": "Wheat Germ Oil",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 5
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 14
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 54
+      }
+    ]
+  },
+  {
+    "food": "White Beans (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 44
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 89
+      },
+      {
+        "description": "1 cup",
+        "grams": 179
+      }
+    ]
+  },
+  {
+    "food": "White Beans (dried)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 50
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 100
+      },
+      {
+        "description": "1 cup",
+        "grams": 200
+      }
+    ]
+  },
+  {
     "food": "Walnuts (raw)",
     "portionSizes": [
       {
@@ -421,6 +676,23 @@
       {
         "description": "1 cup whole leaves",
         "grams": 50
+      }
+    ]
+  },
+  {
+    "food": "Yeast",
+    "portionSizes": [
+      {
+        "description": "1 teaspoon",
+        "grams": 3
+      },
+      {
+        "description": "1 tablespoon",
+        "grams": 9
+      },
+      {
+        "description": "1/4 cup",
+        "grams": 36
       }
     ]
   },
@@ -476,6 +748,23 @@
     ]
   },
   {
+    "food": "Yellow Pepper (cooked)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 34
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 68
+      },
+      {
+        "description": "1 cup",
+        "grams": 136
+      }
+    ]
+  },
+  {
     "food": "Yellowfin Tuna (cooked)",
     "portionSizes": [
       {
@@ -494,6 +783,23 @@
   },
   {
     "food": "Yogurt (plain)",
+    "portionSizes": [
+      {
+        "description": "1/4 cup",
+        "grams": 61
+      },
+      {
+        "description": "1/2 cup",
+        "grams": 123
+      },
+      {
+        "description": "1 cup",
+        "grams": 245
+      }
+    ]
+  },
+  {
+    "food": "Yogurt (low-fat)",
     "portionSizes": [
       {
         "description": "1/4 cup",
